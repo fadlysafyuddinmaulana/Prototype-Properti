@@ -27,7 +27,7 @@
         <!-- Right navbar links -->
         <ul class="order-1 order-md-3 navbar-nav navbar-no-expand ml-auto">
             <li class="nav-item">
-                <a class="nav-link" data-widget="control-sidebar" data-target="#modal-default" data-toggle="modal" data-slide="true" href="#modal-default" role="button">
+                <a class="nav-link" href="<?= base_url() ?>Profile-Customer">
                     <i class="fas fa-regular fa-user"></i>
                     <span>Heru</span>
                 </a>

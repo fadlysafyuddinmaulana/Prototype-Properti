@@ -56,6 +56,8 @@ $route['translate_uri_dashes'] = FALSE;
 $route['Register-Customer']     = 'Starter_Page/Register';
 $route['Login-Customer']        = 'Starter_Page/Index';
 
+$route['Profile-Customer']        = 'External_Page/Index';
+
 $route['Home']                  = 'Home';
 $route['Rumah']                 = 'Home/Rumah';
 $route['Tanah']                 = 'Home/Tanah';
