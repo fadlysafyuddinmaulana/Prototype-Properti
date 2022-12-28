@@ -6,26 +6,22 @@
             <div class="card card-primary card-outline">
                 <div class="card-body box-profile">
                     <div class="text-center">
-                        <img class="profile-user-img img-fluid img-circle" src="<?= base_url() ?>assets/dist/img/user4-128x128.jpg" alt="User profile picture">
+                        <img class="card-img-top" style="border-radius: 10px; height: 150px; width: 150px; " src="<?= base_url() ?>assets/Image-Upload/user.png" alt="User profile picture">
                     </div>
 
-                    <h3 class="profile-username text-center">Nina Mcintire</h3>
+                    <h3 class="profile-username text-center">Heru</h3>
 
-                    <p class="text-muted text-center">Software Engineer</p>
-
-                    <ul class="list-group list-group-unbordered mb-3">
-                        <li class="list-group-item">
-                            <b>Followers</b> <a class="float-right">1,322</a>
-                        </li>
-                        <li class="list-group-item">
-                            <b>Following</b> <a class="float-right">543</a>
-                        </li>
-                        <li class="list-group-item">
-                            <b>Friends</b> <a class="float-right">13,287</a>
-                        </li>
-                    </ul>
-
-                    <a href="#" class="btn btn-primary btn-block"><b>Follow</b></a>
+                    <div class="form-group mt-5">
+                        <div class="input-group">
+                            <div class="custom-file">
+                                <input type="file" class="custom-file-input" id="exampleInputFile">
+                                <label class="custom-file-label" for="exampleInputFile">Choose file</label>
+                            </div>
+                            <div class="input-group-append">
+                                <button class="input-group-text">Save</button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <!-- /.card-body -->
             </div>
@@ -50,25 +46,25 @@
                         <div class="form-group row">
                             <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
                             <div class="col-sm-10">
-                                <span>Heru <a class="ml-2" href="#">Ubah</a></span>
+                                <span>xxx@email.com <a class="ml-2" href="#">Ubah</a></span>
                             </div>
                         </div>
                         <div class="form-group row">
                             <label for="inputName2" class="col-sm-2 col-form-label">NIK</label>
                             <div class="col-sm-10">
-                                <span>Heru <a class="ml-2" href="#">Ubah</a></span>
+                                <span>213xxxxxx <a class="ml-2" href="#">Ubah</a></span>
                             </div>
                         </div>
                         <div class="form-group row">
                             <label for="inputName2" class="col-sm-2 col-form-label">Tanggal Lahir</label>
                             <div class="col-sm-10">
-                                <span>Heru <a class="ml-2" href="#">Ubah</a></span>
+                                <span>01/01/1996 <a class="ml-2" href="#">Ubah</a></span>
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label for="inputName2" class="col-sm-2 col-form-label">Nomot Telepon</label>
+                            <label for="inputName2" class="col-sm-2 col-form-label">Nomor Telepon</label>
                             <div class="col-sm-10">
-                                <span>Heru <a class="ml-2" href="#">Ubah</a></span>
+                                <span>08xxxxxx <a class="ml-2" href="#">Ubah</a></span>
                             </div>
                         </div>
                     </div>

@@ -61,3 +61,6 @@ $route['Profile-Customer']        = 'External_Page/Index';
 $route['Home']                  = 'Home';
 $route['Rumah']                 = 'Home/Rumah';
 $route['Tanah']                 = 'Home/Tanah';
+
+$route['Detail-Rumah']          = 'External_Page/Detail_Product_Rumah';
+$route['Detail-Tanah']          = 'External_Page/Detail_Product_Tanah';
