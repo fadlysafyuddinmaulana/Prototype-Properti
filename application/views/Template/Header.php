@@ -16,6 +16,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <link rel="stylesheet" href="<?= base_url() ?>assets/AdminLTE-3.2.0/plugins/fontawesome-free/css/all.min.css">
     <!-- Theme style -->
     <link rel="stylesheet" href="<?= base_url() ?>assets/AdminLTE-3.2.0/dist/css/adminlte.min.css">
+    <!-- Icon Theme -->
+    <link rel="icon" href="<?= base_url() ?>assets/Image-Upload/AGAZ-PROPERTI.ico">
 </head>
 
 <body class="hold-transition layout-top-nav">

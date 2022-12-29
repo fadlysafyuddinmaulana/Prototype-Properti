@@ -6,7 +6,6 @@
             <div class="card-body">
                 <div class="row">
                     <div class="col-12 col-sm-6">
-                        <h3 class="d-inline-block d-sm-none">LOWA Men’s Renegade GTX Mid Hiking Boots Review</h3>
                         <div class="col-12">
                             <img height="250" width="500" src="https://akcdn.detik.net.id/visual/2018/10/13/a9a3f494-0b12-4e35-8950-7e2a1b7269d0_169.jpeg?w=650" class="product-image" alt="Product Image">
                         </div>
@@ -16,8 +15,27 @@
                         </div>
                     </div>
                     <div class="col-12 col-sm-6">
-                        <h3 class="my-3">LOWA Men’s Renegade GTX Mid Hiking Boots Review</h3>
-                        <p class="text-justify">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id animi magni labore eius officia a voluptates tempore optio! Tempora nam nihil ullam aperiam delectus asperiores sunt dolores molestias sed magni maxime fuga, culpa repudiandae atque deleniti! Reprehenderit corrupti veritatis voluptatem illum dignissimos tempore rem. At, cumque sequi quod vel expedita optio est ex aut placeat vitae porro suscipit nesciunt earum molestias ea, laboriosam officiis qui repellat voluptatem iste consequuntur doloremque! Vero et maiores voluptates optio voluptatum vel beatae voluptate voluptas neque corporis, corrupti soluta libero quas incidunt repellat illum distinctio accusamus! Porro accusamus explicabo esse fugiat optio fugit officiis facere!</p>
+                        <h3 class="my-3">Detail</h3>
+                        <table style="width: 100%;">
+                            <tbody>
+                                <tr>
+                                    <td>Luas Tanah</td>
+                                    <td class="mr-3">1 KT - 1 KM - 300 m2</td>
+                                </tr>
+                                <tr>
+                                    <td>Alamat Jalan</td>
+                                    <td>Jalan Yang Mempunyain Nama</td>
+                                </tr>
+                                <tr>
+                                    <td>Pemilik Tanah</td>
+                                    <td>Manusia</td>
+                                </tr>
+                                <tr>
+                                    <td>Sertifikasi</td>
+                                    <td>SHM - Sertifikat Hak Milik</td>
+                                </tr>
+                            </tbody>
+                        </table>
                         <hr>
                         <div class="btn-group btn-group-toggle" data-toggle="buttons">
                             <label class="btn btn-default text-center active">
@@ -45,10 +63,18 @@
 
                         <div class="py-2 px-3 mt-1">
                             <h2 class="mb-0">
-                                Rp. <?= number_format("500000", 2, ",", "."); ?> Hektar
+                                Rp. <?= number_format("500000", 2, ",", "."); ?>/Hektar
                             </h2>
                         </div>
 
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="tab-content p-3" id="nav-tabContent">
+                        <h3 class="my-3">Deskripsi</h3>
+                        <p class="text-justify">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae condimentum erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed posuere, purus at efficitur hendrerit, augue elit lacinia arcu, a eleifend sem elit et nunc. Sed rutrum vestibulum est, sit amet cursus dolor fermentum vel. Suspendisse mi nibh, congue et ante et, commodo mattis lacus. Duis varius finibus purus sed venenatis. Vivamus varius metus quam, id dapibus velit mattis eu. Praesent et semper risus. Vestibulum erat erat, condimentum at elit at, bibendum placerat orci. Nullam gravida velit mauris, in pellentesque urna pellentesque viverra. Nullam non pellentesque justo, et ultricies neque. Praesent vel metus rutrum, tempus erat a, rutrum ante. Quisque interdum efficitur nunc vitae consectetur. Suspendisse venenatis, tortor non convallis interdum, urna mi molestie eros, vel tempor justo lacus ac justo. Fusce id enim a erat fringilla sollicitudin ultrices vel metus.
+                        </p>
                     </div>
                 </div>
             </div>
