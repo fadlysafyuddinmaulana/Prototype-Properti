@@ -7,10 +7,10 @@
                 <div class="row">
                     <div class="col-12 col-sm-6">
                         <div class="col-12">
-                            <img height="250" width="500" src="https://asset.kompas.com/crops/icva5Lwu8mguAdL-ZHNbwHT-eZ0=/0x0:1200x800/750x500/data/photo/2020/10/26/5f96aecd62a38.jpg" class="product-image" alt="Product Image">
+                            <img src="https://lzd-img-global.slatic.net/g/p/755fedc6a4d647169d8ad77bb7bf12fa.jpg_720x720q80.jpg_.webp" class="product-image" alt="Product Image">
                         </div>
                         <div class="col-12 product-image-thumbs">
-                            <div class="product-image-thumb active"><img src="https://asset.kompas.com/crops/icva5Lwu8mguAdL-ZHNbwHT-eZ0=/0x0:1200x800/750x500/data/photo/2020/10/26/5f96aecd62a38.jpg" alt="Product Image"></div>
+                            <div class="product-image-thumb active"><img src="https://lzd-img-global.slatic.net/g/p/755fedc6a4d647169d8ad77bb7bf12fa.jpg_720x720q80.jpg_.webp" alt="Product Image"></div>
                             <div class="product-image-thumb"><img src="<?= base_url() ?>assets/Image-Upload/Anggap-Saja-Ada-Gambar-Detail.jpg" alt="Product Image"></div>
                         </div>
                     </div>
@@ -19,24 +19,16 @@
                         <table style="width: 100%;">
                             <tbody>
                                 <tr>
-                                    <td>Luas Tanah</td>
-                                    <td class="mr-3">1 KT - 1 KM - 300 m2</td>
+                                    <td>Kondisi</td>
+                                    <td class="mr-3">Baru</td>
                                 </tr>
                                 <tr>
-                                    <td>Luas Rumah</td>
-                                    <td class="mr-3">1 KT - 1 KM - 300 m2</td>
+                                    <td>Berat</td>
+                                    <td class="mr-3">350 g</td>
                                 </tr>
                                 <tr>
-                                    <td>Alamat Jalan</td>
-                                    <td>Jalan Yang Mempunyain Nama</td>
-                                </tr>
-                                <tr>
-                                    <td>Pemilik Runah</td>
-                                    <td>Manusia</td>
-                                </tr>
-                                <tr>
-                                    <td>Sertifikasi</td>
-                                    <td>SHM - Sertifikat Hak Milik</td>
+                                    <td>Kategori</td>
+                                    <td>Fashion</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -50,7 +42,7 @@
                                 </a>
                             </label>
                             <label class="btn btn-default text-center active">
-                                <a href="https://wa.me/628<?= random_string('nozero', 10); ?>" class="text-center text-secondary">
+                                <a href="https://https://wa.me//628<?= random_string('nozero', 10); ?>" class="text-center text-secondary">
                                     Message
                                     <br>
                                     <i class="fa-regular fa-2x fa-envelope"></i>

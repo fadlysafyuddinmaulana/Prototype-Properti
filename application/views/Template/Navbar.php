@@ -17,7 +17,7 @@
                     <a href="<?= base_url() ?>Home" class="nav-link">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a href="https://wa.me/6282138447484" class="nav-link">Contact</a>
+                    <a href="https://https://wa.me//6282138447484" class="nav-link">Contact</a>
                 </li>
 
             </ul>

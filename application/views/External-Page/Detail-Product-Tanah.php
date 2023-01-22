@@ -46,7 +46,7 @@
                                 </a>
                             </label>
                             <label class="btn btn-default text-center active">
-                                <a href="https://wa.me/628<?= random_string('nozero', 10); ?>" class="text-center text-secondary">
+                                <a href="https://https://wa.me//628<?= random_string('nozero', 10); ?>" class="text-center text-secondary">
                                     Message
                                     <br>
                                     <i class="fa-regular fa-2x fa-envelope"></i>

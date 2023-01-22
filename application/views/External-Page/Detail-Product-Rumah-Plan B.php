@@ -55,7 +55,7 @@
                         </div>
 
                         <div class="mt-4">
-                            <a href="https://wa.me/628<?= random_string('nozero', 10); ?>" class="btn btn-primary btn-lg btn-flat">
+                            <a href="https://https://wa.me//628<?= random_string('nozero', 10); ?>" class="btn btn-primary btn-lg btn-flat">
                                 <i class="fa-regular fa-envelope fa-lg mr-2"></i>
                                 Send Message
                             </a>

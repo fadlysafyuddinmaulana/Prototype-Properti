@@ -5,7 +5,7 @@ class Starter_Page extends CI_Controller
 {
     public function Index()
     {
-        $data['title']          = 'Agaz Properti';
+        $data['title']          = 'Matahari Store';
         $data['content_title'] = '<b>Agaz</b>Properti';
 
         $this->load->view('Template_login/Header_login', $data);
@@ -15,7 +15,7 @@ class Starter_Page extends CI_Controller
 
     public function Register()
     {
-        $data['title']          = 'Agaz Properti';
+        $data['title']          = 'Matahari Store';
         $data['content_title']  = '<b>Agaz</b>Properti';
 
         $this->load->view('Template_login/Header_login', $data);
